@@ -1,0 +1,7 @@
+/* Solidity 0.8
+*   safe math
+*   custom errors
+*   functions outside contract
+*   import {symbol as alias, symbol2} from "filename";
+*   Salted contract creations / create2
+*/
